@@ -51,18 +51,21 @@
 
 # import random
 
-# tver = ('1','2','3','4','5','6','7','8','9')
-# tarer = ('Ա','Բ','Գ','Դ','Ե','Զ','Լ','Ի','Պ','Ռ','Ս') 
-# tarer_ = ''
-# tver_ = ''
-# for i in range(3):
-#     tver_ += random.choice(tver)
-# for i in range(3):
+# def func():
+#     tver = ('1','2','3','4','5','6','7','8','9')
+#     tarer = ('Ա','Բ','Գ','Դ','Ե','Զ','Լ','Ի','Պ','Ռ','Ս') 
+#     tarer_ = ''
+#     tver_ = ''
+#     for i in range(3):
+#         tver_ += random.choice(tver)
+#     for i in range(3):
+#         tarer_ += random.choice(tarer)
+#     print(tarer_,tver_)
 #     tarer_ += random.choice(tarer)
-# print(tarer_,tver_)
-# tarer_ += random.choice(tarer)
-# print(tarer_,tver_)
+#     print(tarer_,tver_)
 
-'''exercise 87'''
+# print(func())
+
+'''exercise'''
 
         
